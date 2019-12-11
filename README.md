@@ -4,3 +4,5 @@
 * PCA
 * SMOTE
 * Churn Prediction - Multiple Models
+### Linear Regression
+
